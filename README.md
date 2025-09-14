@@ -1,6 +1,4 @@
 ## QDR - Quick Directories
-To be updated with correct infos
-[![GitHub license](https://img.shields.io/github/license/getizeddev/qdr)](https://github.com/getizeddev/qdr)
 ![GitHub last commit](https://img.shields.io/github/last-commit/getizeddev/qdr)
 
 ### Table of Contents
