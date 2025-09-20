@@ -180,7 +180,7 @@ qdr() {
 
         -h | --help ) helpDoc;;
 
-        -* ) printf "\x1b[1mqdr\x1b[0m: invalid option $1\nTry \x1b[90m'qdr -h'\x1b[0m or \x1b[90m'qdr --help'\x1b[0m for more information";;
+        -* ) printf "\x1b[1mqdr\x1b[0m: invalid option $1\nTry 'qdr -h' or 'qdr --help' for more information";;
 
         * ) relocate $1;;
     esac
